@@ -65,7 +65,7 @@ Adept at critical thinking, problem-solving, and prompt engineering, with strong
 | [CyberAware](https://github.com/gabrielWilfried/CyberAware) | Web app to educate students on cybersecurity   | NodeJS • React • TailwindCSS        | ⭐️ Quiz, CTF • UI & API design    |
 | [CyberMesh](https://github.com/gabrielWilfried/two_layer_deception) | A multilayer deception system simulating attacks & defenses using RL  | Python • Scikit-learn • RLlib • PPO • MCST        | ⭐️ 60 commits • Core simulation   |
 | [AgriConnect](https://agri-connect-ruby.vercel.app/) | Web app to support farmers with weather, crop, and soil info. | ReactJS • Django • Postgresql               | ⭐️ 45 commits • Backend & Auth     |
-| [Portfolio](https://github.com/gabrielWilfried/portfolio) | Personal website & blog                               | ReactJS • Tailwind • Markdown         | ⭐️ 30 commits • Design & content   |
+| [kocee](https://kocee.vercel.app/) | KOCEE Cameroonian artist personal website                               | ReactJS • Tailwind • Markdown         | ⭐️ Portfolio • Design & content   |
 <!--STATS_END-->
 
 ---
