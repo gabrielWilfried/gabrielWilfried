@@ -62,7 +62,7 @@ Adept at critical thinking, problem-solving, and prompt engineering, with strong
 | Repository                                                | Description                                           | Tech Stack                          | Contributions |
 | --------------------------------------------------------- | ----------------------------------------------------- | ----------------------------------- | ------------- |
 | [AILawyer](https://github.com/gabrielWilfried/AI-Lawyer)   | AI-driven intrusion detection & deception framework   | React Native • Django • Docker        | ⭐️ 120 commits • ML models, infra |
-| [CyberAware](https://github.com/gabrielWilfried/CyberAware) | Web app to educate students on cybersecurity   | NodeJS • React • TailwindCSS        | ⭐️ Quiz, CTF • UI & API design    |
+| [AegisAware](https://aegis-aware.vercel.app/) | Web app to educate students on cybersecurity   | NodeJS • React • TailwindCSS        | ⭐️ Quiz, CTF • UI & API design • Under Development    |
 | [CyberMesh](https://github.com/gabrielWilfried/two_layer_deception) | A multilayer deception system simulating attacks & defenses using RL  | Python • Scikit-learn • RLlib • PPO • MCST        | ⭐️ 60 commits • Core simulation   |
 | [AgriConnect](https://agri-connect-ruby.vercel.app/) | Web app to support farmers with weather, crop, and soil info. | ReactJS • Django • Postgresql               | ⭐️ 45 commits • Backend & Auth     |
 | [kocee](https://kocee.vercel.app/) | KOCEE Cameroonian artist personal website                               | ReactJS • Tailwind • Markdown         | ⭐️ Portfolio • Design & content   |
